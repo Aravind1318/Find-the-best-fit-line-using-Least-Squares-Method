@@ -67,6 +67,7 @@ plt.show()
 
 ## Output:
 ![best fit line](sam.png)
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-03-03 103602.png"
 
 
 ## Result:
